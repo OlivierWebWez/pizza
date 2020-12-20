@@ -11,5 +11,4 @@
 	{ "nom": "orientale", "ingredients": [ "merguez", "champignons", "sauce tomate", "mozzarella"], "prix": 11, "vegetarienne":false},
 	{ "nom": "hawaïenne", "ingredients": [ "jambon", "ananas", "sauce tomate", "mozzarella"], "prix": 12, "vegetarienne":false},
 	{ "nom": "reine", "ingredients": [ "jambon", "champignons", "sauce tomate", "mozzarella"], "prix": 8, "vegetarienne":false},
-
 ]
